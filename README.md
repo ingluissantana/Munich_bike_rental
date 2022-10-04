@@ -3,4 +3,4 @@
 
 Data: https://www.mvg.de/dam/mvg/services/mobile-services/mvg-rad/fahrten-csv/MVG_Rad_Fahrten_2021.zip
 
-Link: https://tabsoft.co/3RJa3HO
+Visualization Link: https://tabsoft.co/3RJa3HO
